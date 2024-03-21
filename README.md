@@ -8,13 +8,13 @@ This project aims to conduct an analysis of movie data, focusing on identifying 
 ##Data
 The data utilized in this project was sourced from the following links. While all tables underwent cleaning, not every one was ultimately incorporated into the final analysis:
 
-.`**Box Office Mojo:**` https://www.boxofficemojo.com
+.**`Box Office Mojo`:** https://www.boxofficemojo.com
 
->.`**IMDB:**` https://www.imdb.com/interfaces/
+.**`IMDB`:** https://www.imdb.com/interfaces/
 
->.`**Rotten Tomatoes:**` https://www.rottentomatoes.com
+.**`Rotten Tomatoes`:** https://www.rottentomatoes.com
 
->.`**The Movie Database:**` https://www.themoviedb.org/?language=en-US
+.**`The Movie Database`:** https://www.themoviedb.org/?language=en-US
 
 # Objectives
 
