@@ -82,11 +82,15 @@ By delving into these questions, Microsoft's movie studio head can gain actionab
 # Insights and Recommendations
 
 
-Based on the analysis, the following recommendations are provided to Microsoft's movie studio:
+**Based on the analysis, the following recommendations are provided to Microsoft's movie studio**:
 
 
 1.Concentrate on genres such as Sci-Fi, Adventure, Animation, and Action, as they have demonstrated higher total gross income.
+
 2. Consider audience preferences and critical response when selecting movie genres and themes.
-3. Explore collaborations or partnerships with established production houses or directors to leverage their expertise and increase the chances of success.
-4. Invest in marketing and promotional activities to create buzz and generate anticipation for upcoming releases.
-5. Continuously monitor industry trends and audience preferences to adapt strategies accordingly and stay competitive in the dynamic entertainment landscape.
+3. 
+4. Explore collaborations or partnerships with established production houses or directors to leverage their expertise and increase the chances of success.
+5. 
+6. Invest in marketing and promotional activities to create buzz and generate anticipation for upcoming releases.
+7. 
+8. Continuously monitor industry trends and audience preferences to adapt strategies accordingly and stay competitive in the dynamic entertainment landscape.
