@@ -1,4 +1,4 @@
-# Unveiling Insights: Exploring Data in the Movie Industry"
+# Unveiling Insights: Exploring Data in the Movie Industry
 
 # Author. Henry Rono
 
