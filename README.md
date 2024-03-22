@@ -63,11 +63,20 @@ By delving into these questions, Microsoft's movie studio head can gain actionab
     
 ![Bar plot](https://github.com/RonoHenry/Phase-1-Project-/assets/162313477/8e66440e-e9f6-4158-a7ba-174fad096aec)
 
-![Histogram](https://github.com/RonoHenry/Phase-1-Project-/assets/162313477/127246b4-f5bf-45f6-bbfc-513b1607df41)
-
 ![standin of genres](https://github.com/RonoHenry/Phase-1-Project-/assets/162313477/93c7bc09-ebd9-4fb7-8c19-64c1421ea69d)
 
+![Histogram](https://github.com/RonoHenry/Phase-1-Project-/assets/162313477/127246b4-f5bf-45f6-bbfc-513b1607df41)
+
 ![Pie chart](https://github.com/RonoHenry/Phase-1-Project-/assets/162313477/71c770da-78a1-402e-b25c-61eeb05ed91e)
+
+# Conclusions:
+**Genre Performance Analysis**: Through exploratory data analysis, it has been determined that genres such as Sci-Fi, Adventure, Animation, and Action exhibit robust financial performance based on total gross incomes.
+
+**Audience Preferences**: Drama and Comedy genres dominate the market, indicating widespread audience interest. However, there are opportunities in niche genres like Documentary, Horror, and Science Fiction, catering to specific audience segments.
+
+**Genre Innovation**: While certain genres are prevalent, there's room for innovation and experimentation in genre selection. Microsoft's movie studio can explore unique genre combinations to differentiate its offerings and tap into new audience segments.
+
+**Strategic Insights**: The data provides actionable insights for Microsoft's movie studio to make informed decisions regarding genre selection, content strategy, and audience targeting.
 
 
 # Insights and Recommendations
