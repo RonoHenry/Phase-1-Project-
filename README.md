@@ -61,10 +61,17 @@ By delving into these questions, Microsoft's movie studio head can gain actionab
     
 7.**Data Visualization**: Utilize various plots and visualizations to gain insights into the data.
     
-8.**Insights and Recommendations**: Derive insights and provide recommendations based on the analysis.
 
+![Pie chart](https://github.com/RonoHenry/Phase-1-Project-/assets/162313477/71c770da-78a1-402e-b25c-61eeb05ed91e)
+
+![Histogram](https://github.com/RonoHenry/Phase-1-Project-/assets/162313477/127246b4-f5bf-45f6-bbfc-513b1607df41)
+
+![standin of genres](https://github.com/RonoHenry/Phase-1-Project-/assets/162313477/93c7bc09-ebd9-4fb7-8c19-64c1421ea69d)
+
+![Bar plot](https://github.com/RonoHenry/Phase-1-Project-/assets/162313477/8e66440e-e9f6-4158-a7ba-174fad096aec)
 
 # Insights and Recommendations
+
 
 Based on the analysis, the following recommendations are provided to Microsoft's movie studio:
 
