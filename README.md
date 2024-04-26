@@ -35,7 +35,7 @@ By delving into these questions, Microsoft's movie studio head can gain actionab
 
 # The Data
 
-.**`Box Office Mojo`**: https://www.boxofficemojo.com
+.**Henry Rono**: https://www.boxofficemojo.com
 
 .**`MDB`**: https://www.imdb.com/interfaces/
 
